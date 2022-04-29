@@ -1,8 +1,6 @@
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
-![Preview](preview.jpg)
-
 ## Live links (replace with your own)
 - Leaflet Map https://osr-resources.github.io/osrmap/
 - Google Sheets https://docs.google.com/spreadsheets/d/1BBWmKNVwaCNQGpQYZUFWTaAVit9iS1dhkl2z3ZwB3FY/edit#gid=0
